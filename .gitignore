@@ -1,3 +1,5 @@
 .idea/
 JavaTeX.iml
 out/
+test/actual
+test/temp

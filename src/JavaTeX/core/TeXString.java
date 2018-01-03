@@ -1,3 +1,8 @@
+package JavaTeX.core;
+
+/**
+ * This class represents a string of TeX Source.
+ */
 public class TeXString {
     private String source;
 
